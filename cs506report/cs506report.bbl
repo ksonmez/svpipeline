@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Alkan:2011p547}
+Can Alkan, Bradley~P Coe, and Evan~E Eichler.
+\newblock Genome structural variation discovery and genotyping.
+\newblock {\em Nat Rev Genet}, Mar 2011.
+
+\bibitem{Korbel:2009p7}
+Jan~O Korbel, Alexej Abyzov, Xinmeng~Jasmine Mu, Nicholas Carriero, Philip
+  Cayting, Zhengdong Zhang, Michael Snyder, and Mark~B Gerstein.
+\newblock Pemer: a computational framework with simulation-based error models
+  for inferring genomic structural variants from massive paired-end sequencing
+  data.
+\newblock {\em Genome Biol}, 10(2):R23, Jan 2009.
+
+\bibitem{SimSeq}
+John St.~John.
+\newblock Simseq.
+\newblock \url{https://github.com/jstjohn/SimSeq}.
+
+\bibitem{Chen:2009p3}
+Ken Chen, John~W Wallis, Michael~D McLellan, David~E Larson, Joelle~M Kalicki,
+  Craig~S Pohl, Sean~D McGrath, Michael~C Wendl, Qunyuan Zhang, Devin~P Locke,
+  Xiaoqi Shi, Robert~S Fulton, Timothy~J Ley, Richard~K Wilson, Li~Ding, and
+  Elaine~R Mardis.
+\newblock Break{D}ancer: an algorithm for high-resolution mapping of genomic
+  structural variation.
+\newblock {\em Nat Methods}, 6(9):677--81, Sep 2009.
+
+\bibitem{Quinlan:2010p6}
+Aaron~R Quinlan, Royden~A Clark, Svetlana Sokolova, Mitchell~L Leibowitz, Yujun
+  Zhang, Matthew~E Hurles, Joshua~C Mell, and Ira~M Hall.
+\newblock Genome-wide mapping and assembly of structural variant breakpoints in
+  the mouse genome.
+\newblock {\em Genome Res}, 20(5):623--35, May 2010.
+
+\bibitem{novo}
+Novocraft Inc.
+\newblock Novoalign.
+\newblock \url{http://www.novocraft.com}.
+
+\end{thebibliography}
